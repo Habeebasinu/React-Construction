@@ -18,7 +18,7 @@ function Footer() {
   return (
     <div className="bg-indigo-950 w-full min-h-screen relative py-20 px-6">
     
-      <img src={CAP} alt="Helmet Cap" className="absolute -top-10 left-1/2 transform -translate-x-1/2 z-10 w-52 sm:w-72" />
+      <img src={CAP} alt="Helmet Cap" className="absolute -top-10 left-1/4 transform -translate-x-1/2 z-10 w-52 sm:w-72" />
 
       
       <h1 className="text-4xl sm:text-5xl font-extrabold font-sans text-center text-white z-20 relative">
